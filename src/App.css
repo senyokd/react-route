@@ -1,0 +1,14 @@
+
+.active {
+  color: red;
+  font-weight: 600;
+}
+img {
+  border-radius: 8px;
+}
+.container{
+  margin-top: 10px;
+  margin-right: 100px;
+  width: 100%;
+  padding: 10px;
+}
