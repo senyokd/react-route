@@ -16,7 +16,7 @@ function App() {
     <div className="w3-top">
     <div className="w3-bar w3-white w3-padding w3-card" >
       <h3 className="w3-bar-item w3-button">Senyo's Waakye Diary</h3>
-    <div className="w3-right w3-hide-small">
+    <div className="w3-right w3-small">
     <NavLink exact className="w3-bar-item w3-button " activeClassName="active" to="/" >Home  </NavLink>
     
     <NavLink className="w3-bar-item w3-button"  activeClassName="active" to="/about">About </NavLink>
